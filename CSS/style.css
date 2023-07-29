@@ -1,0 +1,21 @@
+*{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.galleryDiv{
+    height: 500px;
+}
+
+.galleryDiv > img{
+    height: 500px;
+}
+
+.photo{
+    width: 100%;
+    height: 100%;
+}
