@@ -1,38 +1,37 @@
-﻿# Interio
+# Interio
 
 Interior design website frontend with responsive sections, visual layout practice, and service presentation.
 
-## Overview
+## Why This Project Matters
 
-An interior design website project built to practice visual layout, service presentation, and responsive frontend design.
+This project is part of my portfolio because it shows practical product engineering: real screens, real workflows, backend/API thinking where relevant, and enough structure to explain design and debugging decisions clearly.
+
+## Highlights
+
+- Interior/service presentation pages
+- Visual layout practice
+- Responsive static site
+- Older frontend archive project
 
 ## Tech Stack
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, responsive frontend
 
-## Features
+## Demo
 
-- Interior design landing page
-- Service and gallery-style sections
-- Responsive static layout
-- Frontend design practice
+- Demo video: add when available
 
 ## Run Locally
 
-- Open index.html in the browser, or serve the folder with a static server
+`ash
+npm install
+npm run dev
+`
 
-## Showcase
+Some full-stack projects may also need MongoDB, Redis, or a paired backend/frontend service. Check the project-specific .env.example, backend folder, or existing docs before running production-like flows.
 
-Recommended assets for a stronger portfolio presentation:
+## Portfolio Notes
 
-- Demo video or walkthrough
-- 2-5 screenshots of the main workflow
-- Short architecture/API screenshot where relevant
-
-## Status
-
-Archived frontend project.
-
-## Notes
-
-This repository is maintained as part of a developer portfolio. Secrets and local environment values should stay outside Git and be documented through .env.example files when required.
+- Built/maintained by Aswin Anand.
+- Showcase-ready README added for recruiters and project reviewers.
+- Private repositories are intentionally kept private when the project includes client-like code, internal workflows, or local environment assumptions.
